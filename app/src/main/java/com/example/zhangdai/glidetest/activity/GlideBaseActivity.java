@@ -67,7 +67,7 @@ public class GlideBaseActivity extends AppCompatActivity {
 
         //（1）加载网络图片
         tvGlide1.setText("（1）加载网络图片");
-        Glide.with(this).load("http://cn.bing.com/az/hprichbg/rb/Dongdaemun_ZH-CN10736487148_1920x1080.jpg").into(ivGlide1);
+        Glide.with(this).load("http://img.tupianzj.com/uploads/allimg/160726/9-160H6110H0.jpg").into(ivGlide1);
 
         //（2）加载资源图片
         tvGlide2.setText("（2）加载资源图片");
