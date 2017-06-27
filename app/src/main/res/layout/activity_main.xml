@@ -24,6 +24,7 @@
         android:id="@+id/bt_glide_recyclerview"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:textAllCaps="false"
         android:text="RecyclerView中加载图片" />
 
     <Button
